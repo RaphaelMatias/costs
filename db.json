@@ -7,8 +7,27 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 4722,
+      "services": [
+        {
+          "name": "serviço 1",
+          "cost": "1000",
+          "description": "teste de serviço",
+          "id": "183eee81-bab1-4a81-be66-310da77f389c"
+        },
+        {
+          "name": "serviço 2",
+          "cost": "1500",
+          "description": "teste de serviço",
+          "id": "8e2bce36-1b6c-49e3-9ac1-c25e504be0c0"
+        },
+        {
+          "name": "Raphael",
+          "cost": "2222",
+          "description": "primeiro serviço",
+          "id": "338e1a9e-4809-4ddd-8d2a-8117591117c6"
+        }
+      ],
       "id": 2
     },
     {
